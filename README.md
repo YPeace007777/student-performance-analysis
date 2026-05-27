@@ -136,6 +136,19 @@ Confusion Matrix
 
 --------------------
 
+# Automated EDA Report
+
+Automated exploratory data analysis was performed using:
+. YData Profiling
+
+Generated report includes:
+. Feature statistics
+. Missing values analysis
+. Correlation analysis
+. Data quality insights
+
+--------------------
+
 # Future Improvements
 . Add Streamlit Web Application
 . Use advanced ML algorithms
