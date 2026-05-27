@@ -1,7 +1,7 @@
 # Problem Statement
 Student Perforamnce Analysis report on the basis on various parameters, Predicting whether the stdent whether the student will pass or fail.
 
-
+------------------
 
 # Overview 
 This project focuses on analyzing student academic performance using Data Science and Machine Learning techniques. The dataset was cleaned, analyzed, visualized, and used to build a predictive model for determining student pass/fail outcomes.
@@ -14,7 +14,7 @@ The project demonstrates the complete beginner-level Data Science workflow:
 . Machine Learning
 . Model Evaluation
 
-
+-------------------
 
 # Objectives
 . Analyze student performance trends
@@ -22,7 +22,7 @@ The project demonstrates the complete beginner-level Data Science workflow:
 . Visualize relationships between subjects and students attributes
 . Predict student pass/fail status using Machine Learning
 
-
+------------------
 
 # Technologies Used
 . Python
@@ -34,7 +34,7 @@ The project demonstrates the complete beginner-level Data Science workflow:
 . Jupyter Notebook
 . Ydata-profiling
 
-
+------------------
 
 # Dataset
 Dataset used:
@@ -52,7 +52,7 @@ The dataset contains:
 . Reading Score
 . Writing Score
 
-
+-------------------
 
 # Project Workflow 
 
@@ -91,7 +91,7 @@ Machine Leanrning Workflow:
 . Prediction
 . Accuracy evaluation
 
-
+----------------------
 
 # Machine Learning Model
 
@@ -105,6 +105,7 @@ Features Used:
 Target Variable
 . Pass/Fail based on math score
 
+----------------------
 
 # Model Accuracy
 The Logistic Regression model achived approxmately:
@@ -117,7 +118,7 @@ Key Insights:
 . <Femeale> studnets performed better on averge in <reading and writing> scores.
 . Ethnicity appeared to be also affecting the Results as <Group E> students tend to <perform better> overall.
 
-
+----------------------
 
 # Visualisations
 
@@ -133,7 +134,7 @@ Gender-wise Boxplot
 Confusion Matrix
 . Evaluates machine learning predection performance.
 
-
+--------------------
 
 # Future Improvements
 . Add Streamlit Web Application
@@ -142,7 +143,7 @@ Confusion Matrix
 . Deploy project online
 . Build interactive dashboard 
 
-
+--------------------
 
 # Learning Outcomes
 Through this project, I learned:
@@ -153,6 +154,7 @@ Through this project, I learned:
 . Model evaluation methods 
 . Real-world dataset handeling
  
+--------------------
 
 # Author
 Aman Kumar
